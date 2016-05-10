@@ -14,7 +14,7 @@
 - [穂坂賢 et al.「麹菌の生産する抗菌性物質・Yeastcidinを用いた集積培養液からの清酒酵母の分離」(PDF)](https://www.jstage.jst.go.jp/article/jbrewsocjapan1988/94/12/94_12_998/_pdf)
 
 
-- [吉浦貴紀 et al.「桜酵母の分離」 茨城県工業技術センター研究報告 第 39 号(PDF)](http://www.kougise.pref.ibaraki.jp/periodical/reseach/39/vol39-17.pdf)
+- [吉浦貴紀 et al.「桜酵母の分離」 茨城県工業技術センター研究報告 第39号 (PDF)](http://www.kougise.pref.ibaraki.jp/periodical/reseach/39/vol39-17.pdf)
 
 #### 謝辞
 
