@@ -1,8 +1,11 @@
 ## Open Yeast Protocols
 Open Yeast Protocols（オープン・イースト・プロトコルズ）は、自然界に存在している酵母の採取・培養・観察・保存といった基本操作に関して、多くの人々が取り組むことができるようにオープンに共有する実験プロトコルです。内容は主に「準備するもの」と「手順の例」で構成されています。  
 
-- 酵母用の培地のつくりかた [バレイショ-ブドウ糖寒天培地（キッチン道具のみ）](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/PDAmedium_kitchen.md) / [YPD培地](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/YPDmedium.md) / [YM培地](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/YMmedium.md)  
-
+- 培地のつくりかた [バレイショ-ブドウ糖寒天培地（キッチン道具のみ）](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/PDAmedium_kitchen.md) / [YPD培地](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/YPDmedium.md) / [YM培地](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/YMmedium.md)  
+- [酵母の採取方法](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/hunt.md)  
+- 酵母の培養方法 [液体培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/liquidculture.md) / [寒天平板培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/plateculture.md) / [平板培地から液体培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/plate2liquid.md) / [液体培養から平板培地への播種](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/liquid2plate.md) / [培養液を希釈して平板培養に播種](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/liquiddilution2plate.md)  
+- [酵母の保存方法](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/stock.md)
+- [参考文献・謝辞](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/references.md)
 
 ## 開発履歴
 2016.06 パイロット版（日本語）公開予定。  
