@@ -8,7 +8,7 @@ Open Yeast Protocols（オープン・イースト・プロトコルズ）は、
 ## ライセンスとクレジット
 <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" alt="クリエイティブ・コモンズ・ライセンス" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
 <br /> 
-Open Yeast Protocols
+Open Yeast Protocols  
 企画制作: Yamaguchi Center for Arts and Media [YCAM]<br />
 立案・作成: YCAM InterLab<br />
 Open Yeast Protocolsは<a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>で提供されています。
