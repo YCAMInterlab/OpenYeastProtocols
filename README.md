@@ -3,7 +3,7 @@ Open Yeast Protocolsは、自然界に存在している酵母の採取・培養
 
 ## 開発履歴
 2016.06 パイロット版（日本語）公開予定。  
-2016.03 [瀬戸内国際芸術祭2016 小豆島 Creator in Residence "ei" 春会期 出展作品](http://setouchi-artfest.jp/artworks-artists/artworks/shodoshima/145.html)（UMA/design farm + MUESUM x YCAM）を滞在制作する過程で、大学や研究機関等の研究者に対するヒアリング・文献資料に基づいてパイロット版を作成。  
+2016.03 [瀬戸内国際芸術祭2016 小豆島 Creator in Residence "ei" 春会期 出展作品](http://setouchi-artfest.jp/artworks-artists/artworks/shodoshima/145.html)（UMA/design farm + MUESUM x YCAM）を滞在制作する過程で、大学や研究機関等の研究者に対するヒアリング・文献資料に基づいて一連の基本操作に取り組み、パイロット版を作成。  
 
 ## ライセンスとクレジット
 <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" alt="クリエイティブ・コモンズ・ライセンス" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
