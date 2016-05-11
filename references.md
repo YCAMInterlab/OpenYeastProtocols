@@ -7,7 +7,7 @@
 
 - [水野貴之『バイオ実験 イラストレイテッド 使おう酵母 できるTwo Hybrid』](https://gakken-mesh.jp/book/detail/9784879622655.html)
 
-- H. J. Phaff, M. W. Miller, and E. M. Mrak 永井進訳『酵母菌の生活』
+- [H. J. Phaff, M. W. Miller, and E. M. Mrak 永井進訳『酵母菌の生活』](http://ci.nii.ac.jp/naid/110002777548)
 
 - [数岡孝幸「清酒製造用酵母の分離および実用化」](http://ci.nii.ac.jp/naid/40020484553)
 
