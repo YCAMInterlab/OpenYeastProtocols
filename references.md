@@ -8,7 +8,7 @@
 
 - [H. J. Phaff, M. W. Miller, and E. M. Mrak 永井進訳『酵母菌の生活』](http://ci.nii.ac.jp/naid/110002777548)
 
-- [Sandor Ellix Katz 水原文訳『発酵の技法』](http://www.oreilly.co.jp/books/9784873117638/)
+- [Sandor Ellix Katz 水原文訳『発酵の技法』](http://www.oreilly.co.jp/books/9784873117638/)  
 （論文）
 - [数岡孝幸「清酒製造用酵母の分離および実用化」](http://ci.nii.ac.jp/naid/40020484553)
 
