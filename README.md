@@ -9,7 +9,7 @@ Open Yeast Protocols（オープン・イースト・プロトコルズ）は、
 - [酵母の保存方法](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/stock.md)
 - [参考文献・謝辞](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/references.md)
 
-#### パイロット版（韓国語）
+##### パイロット版（韓国語）
 - [酵母の採取方法](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/hunt_kr.md)  
 - 酵母の培養方法 [液体培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/liquidculture_kr.md) / [液体から平板培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/liquid2plate_kr.md)
 
