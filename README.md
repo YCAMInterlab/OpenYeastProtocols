@@ -11,6 +11,7 @@ Open Yeast Protocols（オープン・イースト・プロトコルズ）は、
 
 ## 開発履歴
 2016.06 パイロット版（日本語）公開予定。  
+2016.05 韓国ソウル・Culture Station Seoul 284にて開催された「Workshop: PROMISE PARK - A Future Park」のDIYバイオワークショップ参加者への配布資料として、一部のプロトコルを韓国語に翻訳。  
 2016.03 [瀬戸内国際芸術祭2016 小豆島 Creator in Residence "ei" 春会期 出展作品](http://setouchi-artfest.jp/artworks-artists/artworks/shodoshima/145.html)（UMA/design farm + MUESUM x YCAM）を滞在制作する過程で、大学や研究機関等の研究者に対するヒアリング・文献資料に基づいて、酵母に関する一連の基本操作に取り組み、パイロット版を作成。  
 
 ## ライセンスとクレジット
