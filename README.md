@@ -5,8 +5,8 @@ Open Yeast Protocols are experiment protocols for the basic procedures of collec
 
 ##### 英語版 
 - How to Make the Growth Medium: 
-  - [Potato dextrose agar (kitchen utensil)](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/en/PDAmedium_kitchen_en.md)
-  - [YPD growth medium](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/en/YPDmedium_en.md)
+  - [Potato dextrose agar (kitchen utensil)](en/PDAmedium_kitchen_en.md)
+  - [YPD growth medium](en/YPDmedium_en.md)
   - [YM growth medium](en/YMmedium_en.md)
 - How to Collect Yeast
 - How to Culture Yeast
