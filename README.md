@@ -20,9 +20,17 @@ Open Yeast Protocols are experiment protocols for the basic procedures of collec
 - References & Acknowledgments
 
 ##### 日本語版  
-- 培地のつくりかた [バレイショ-ブドウ糖寒天培地（キッチン道具）](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/PDAmedium_kitchen.md) / [YPD培地](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/YPDmedium.md) / [YM培地](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/YMmedium.md)  
+- 培地のつくりかた 
+  - [バレイショ-ブドウ糖寒天培地（キッチン道具）](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/PDAmedium_kitchen.md)
+  - [YPD培地](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/YPDmedium.md) 
+  - [YM培地](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/YMmedium.md)  
 - [酵母の採取方法](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/hunt.md)  
-- 酵母の培養方法 [液体培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/liquidculture.md) / [寒天平板培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/plateculture.md) / [平板から液体培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/plate2liquid.md) / [液体から平板培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/liquid2plate.md) / [液体を希釈して平板培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/liquiddilution2plate.md)  
+- 酵母の培養方法 
+  - [液体培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/liquidculture.md)
+  - [寒天平板培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/plateculture.md)
+  - [平板から液体培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/plate2liquid.md)
+  - [液体から平板培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/liquid2plate.md)
+  - [液体を希釈して平板培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/liquiddilution2plate.md)  
 - [酵母の観察方法](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/observe.md)
 - [酵母の保存方法](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/stock.md)
 - [参考文献・謝辞](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/references.md)
