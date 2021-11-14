@@ -21,7 +21,7 @@ Open Yeast Protocols（オープン・イースト・プロトコルズ）は、
 - 2018.08　山口 
 - 2016.08　鹿児島・南九州市で開催された[GOOD NEIGHBORS JAMBOREE 2016](http://goodneighborsjamboree.com/2016/)のグッドネイバーズ・カレッジ特別授業#3にて、微生物ハンティングなどのワークショップを実施。 
 - 2016.06　山口の山口情報芸術センター［YCAM］にて、[YCAMバイオ・リサーチ・オープンデイvol.1「パンと酵母」](https://www.ycam.jp/events/2016/ycam-bio-research-open-day-vol1/)を開催。
-- 2016.05　韓国ソウルのCulture Station Seoul 284にて開催された[Workshop: PROMISE PARK - A Future Park](https://www.seoul284.org/blog/2016/05/17/모집-문경원과-함께하는-프라미스-파크promise-park-미래/)（ムン・キョンウォン＋YCAM）のDIYバイオワークショップ参加者への配布資料として、一部のプロトコルを韓国語に翻訳。  
+- 2016.05　韓国ソウルにて、プロミス・パーク・プロジェクト（ムン・キョンウォン＋YCAM）の一環として開かれた[リサーチとワークショップ](https://promise-park.ycam.jp/ja/research-workshop-and-fieldwork/)のDIYバイオ・ワークショップ参加者への配布資料として、一部のプロトコルを韓国語に翻訳。  
 - 2016.03　香川・小豆島にて、[瀬戸内国際芸術祭2016 小豆島 Creator in Residence "ei" 春会期 出展作品](http://setouchi-artfest.jp/artworks-artists/artworks/shodoshima/145.html)（UMA/design farm + MUESUM x YCAM）の滞在制作をおこなう過程で、大学や研究機関等の研究者に対するヒアリング・文献資料に基づいて、酵母に関する一連の基本操作に取り組み、パイロット版を作成。  
 
 ## ライセンスとクレジット
