@@ -4,7 +4,20 @@ Open Yeast Protocols are experiment protocols for the basic procedures of collec
 オープン・イースト・プロトコルズは、自然界に存在している酵母の採取・培養・観察・保存といった基本操作に関して、多くの人々が取り組むことができるようにオープンに共有する実験プロトコルです。内容は主に「準備するもの」と「手順の例」で構成されています。  
 
 ##### 英語版 
-- 準備中
+- How to Make the Growth Medium: 
+  - Potato dextrose agar (kitchen utensil)
+  - YPD growth medium
+  - YM growth medium
+- How to Collect Yeast
+- How to Culture Yeast
+  - Liquid Culture
+  - Agar Plate Culture
+  - Liquid Culture from a Plate
+  - Plate Culture from a Liquid
+  - Plate Culture from a Diluted Solution.
+- How to Observe Yeast
+- How to Preserve Yeast
+- References & Acknowledgments
 
 ##### 日本語版  
 - 培地のつくりかた [バレイショ-ブドウ糖寒天培地（キッチン道具）](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/PDAmedium_kitchen.md) / [YPD培地](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/YPDmedium.md) / [YM培地](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/YMmedium.md)  
