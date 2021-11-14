@@ -1,6 +1,6 @@
 ## How to Make Potato Dextrose Agar (PDA)
 
-#### Items Required
+### Items Required
 - Potato: 200 g
 - Tap water: 1,000 mL
 - Glucose: 20 g, 2 w/v% (2 g in 100 mL)
@@ -13,7 +13,7 @@
 - Heat-resistant measuring cup
 - Large heat-resistant container
 
-#### Sample Procedure
+### Sample Procedure
 1. Peel the potato skin, and cut into 1 cm to 2 cm squares. Weigh them with a scale.
 1. Put tap water into the kettle and put it on the stove. Add the tea pack containing the potato and boil for about 20 minutes. Or simmer at 60°C for about 1 hour (*1). During this time, cover the kettle opening with two layers of aluminum foil. (Note: that if it boils, the liquid may spill out.)
 1. Use a heat-resistant measuring cup to measure the amount, then pour it into a large heat-resistant container. To the entire measured amount, add a suitable amount of glucose and powdered agar. Mix well and pour it back into the kettle.
