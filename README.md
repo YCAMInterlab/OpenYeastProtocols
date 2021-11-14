@@ -8,7 +8,7 @@ Open Yeast Protocols are experiment protocols for the basic procedures of collec
   - [Potato dextrose agar (kitchen utensil)](en/PDAmedium_kitchen_en.md)
   - [YPD growth medium](en/YPDmedium_en.md)
   - [YM growth medium](en/YMmedium_en.md)
-- How to Collect Yeast
+- [How to Collect Yeast](en/hunt_en.md)
 - How to Culture Yeast
   - Liquid Culture
   - Agar Plate Culture
