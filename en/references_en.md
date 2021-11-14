@@ -7,8 +7,8 @@
 - [Sandor Ellix Katz. "The Art of Fermentation"](https://www.chelseagreen.com/product/the-art-of-fermentation/) (The Japanese version, translated by Fumi Mizuhara)
 
 #### Papers
-- Takayuki Kazuoka. "_Seishu Seizō-Yō Kōbo No Bunri Oyobi Jitsuyō-Ka_ (Isolation of Sake Brewing Yeast and its Practical Use)"
-- Ken Hosaka et al. "_Kōjikin no Seisan Suru Kōkinseibusshitsu Yeastcidin o Mochiita Shūseki Baiyōeki Kara no Seishu Kōbo no Bunri_ (Isolation of _Sake_ yeast by the Enrichment culture method using the antibiotic yeastcidin produced by _koji_-mold(_Aspergillus oryzae_))" ([PDF](https://www.jstage.jst.go.jp/article/jbrewsocjapan1988/94/12/94_12_998/_pdf))
+- Takayuki Kazuoka. "_Seishu Seizō-Yō Kōbo No Bunri Oyobi Jitsuyō-Ka_ (Isolation of Sake Brewing Yeast and its Practical Use)" [link](https://doi.org/10.6013/jbrewsocjapan.110.298)
+- Ken Hosaka et al. "_Kōjikin no Seisan Suru Kōkinseibusshitsu Yeastcidin o Mochiita Shūseki Baiyōeki Kara no Seishu Kōbo no Bunri_ (Isolation of _Sake_ yeast by the Enrichment culture method using the antibiotic yeastcidin produced by _koji_-mold(_Aspergillus oryzae_))" [PDF](https://www.jstage.jst.go.jp/article/jbrewsocjapan1988/94/12/94_12_998/_pdf)
 - Takanori Yoshiura et al. "_Sakura Kōbo no Bunri_" Ibaraki Prefectural Industrial Technology Center Research Report No. 39 (PDF)
 
 ## Acknowledgments
