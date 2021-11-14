@@ -26,20 +26,20 @@ Open Yeast Protocols are experiment protocols for the basic procedures of collec
   - [YM培地](jp/YMmedium.md)  
 - [酵母の採取方法](jp/hunt.md)  
 - 酵母の培養方法 
-  - [液体培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/liquidculture.md)
-  - [寒天平板培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/plateculture.md)
-  - [平板から液体培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/plate2liquid.md)
-  - [液体から平板培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/liquid2plate.md)
-  - [液体を希釈して平板培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/liquiddilution2plate.md)  
-- [酵母の観察方法](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/observe.md)
-- [酵母の保存方法](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/stock.md)
-- [参考文献・謝辞](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/references.md)
+  - [液体培養](jp/liquidculture.md)
+  - [寒天平板培養](jp/plateculture.md)
+  - [平板から液体培養](jp/plate2liquid.md)
+  - [液体から平板培養](jp/liquid2plate.md)
+  - [液体を希釈して平板培養](jp/liquiddilution2plate.md)  
+- [酵母の観察方法](jp/observe.md)
+- [酵母の保存方法](jp/stock.md)
+- [参考文献・謝辞](jp/references.md)
 
 ##### 韓国語版
-- [酵母の採取方法](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/kr/hunt_kr.md)（채집）  
+- [酵母の採取方法](kr/hunt_kr.md)（채집）  
 - 酵母の培養方法 
-  - [液体培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/kr/liquidculture_kr.md)（액체배양）
-  - [液体から平板培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/kr/liquid2plate_kr.md)（액체배양에서 평판배지에 파종하는 방법）
+  - [液体培養](kr/liquidculture_kr.md)（액체배양）
+  - [液体から平板培養](kr/liquid2plate_kr.md)（액체배양에서 평판배지에 파종하는 방법）
 
 
 ## 開発・利用履歴
