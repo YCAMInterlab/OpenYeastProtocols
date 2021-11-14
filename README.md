@@ -35,7 +35,7 @@ Open Yeast Protocols are experiment protocols for the basic procedures of collec
 - [酵母の保存方法](jp/stock.md)
 - [参考文献・謝辞](jp/references.md)
 
-##### 韓国語版
+##### 韓国語版（一部抜粋）
 - [酵母の採取方法](kr/hunt_kr.md)（채집）  
 - 酵母の培養方法 
   - [液体培養](kr/liquidculture_kr.md)（액체배양）
