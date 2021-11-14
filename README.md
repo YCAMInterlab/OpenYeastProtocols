@@ -37,7 +37,9 @@ Open Yeast Protocols are experiment protocols for the basic procedures of collec
 
 ##### 韓国語版
 - [酵母の採取方法](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/kr/hunt_kr.md)  
-- 酵母の培養方法 [液体培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/kr/liquidculture_kr.md) / [液体から平板培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/kr/liquid2plate_kr.md)
+- 酵母の培養方法 
+  - [液体培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/kr/liquidculture_kr.md)
+  - [液体から平板培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/kr/liquid2plate_kr.md)
 
 
 ## 開発・利用履歴
