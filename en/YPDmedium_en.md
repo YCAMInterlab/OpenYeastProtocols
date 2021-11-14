@@ -6,7 +6,7 @@
 - Yeast extract: 1%
 - Polypeptone: 2%
 - Glucose: 2%
-- Agar(powdered): 1.5%-2%. *For plate growth medium.
+- Agar (powdered): 1.5%-2%. *For plate growth medium.
 - Pure water
 
 Note: Concentrations are all weight/volume percentages w/v% (number of grams dissolved in 100 mL). If pre-mixed materials are used for the YPD growth media, prepare the indicated amount (example: YPD Media: 50 g/L, YPD Agar Media: 70 g/L).   
