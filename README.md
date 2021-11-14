@@ -21,10 +21,10 @@ Open Yeast Protocols are experiment protocols for the basic procedures of collec
 
 ##### 日本語版  
 - 培地のつくりかた 
-  - [バレイショ-ブドウ糖寒天培地（キッチン道具）](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/PDAmedium_kitchen.md)
-  - [YPD培地](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/YPDmedium.md) 
-  - [YM培地](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/YMmedium.md)  
-- [酵母の採取方法](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/hunt.md)  
+  - [バレイショ-ブドウ糖寒天培地（キッチン道具）](jp/PDAmedium_kitchen.md)
+  - [YPD培地](jp/YPDmedium.md) 
+  - [YM培地](jp/YMmedium.md)  
+- [酵母の採取方法](jp/hunt.md)  
 - 酵母の培養方法 
   - [液体培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/liquidculture.md)
   - [寒天平板培養](https://github.com/YCAMInterlab/OpenYeastProtocols/blob/master/jp/plateculture.md)
