@@ -25,5 +25,5 @@
 - Alternate procedure: Prepare 2.0% glucose, 2.0% agar, 23 mL of potato extract, and 77 mL of distilled water. To make the potato extract, grate 100 g of peeled potatoes in 300 mL of water, and refrigerate overnight. Then use several layers of gauze to filter the liquid, sterilize the filtrate (autoclave), and preserve it (*2).
 
 ##### References
-- *1) The Society for Biotechnology, Japan. "Seibutsu Kōgaku Jikken-Sho, Revised Edition", p.131
-- *2) H.J. Phaff, M.W. Miller, and E.M. Mrakm. "The Life of Yeasts" translated by Susumu Nagai, p.66
+*1. The Society for Biotechnology, Japan. "Seibutsu Kōgaku Jikken-Sho, Revised Edition", p.131  
+*2. H.J. Phaff, M.W. Miller, and E.M. Mrakm. "The Life of Yeasts" translated by Susumu Nagai, p.66  
