@@ -16,7 +16,7 @@ Open Yeast Protocols are experiment protocols for the basic procedures of collec
   - [Plate Culture from a Liquid](en/liquid2plate_en.md)
   - [Plate Culture from a Diluted Solution](en/liquiddilution2plate_en.md)
 - [How to Observe Yeast](en/observe_en.md)
-- How to Preserve Yeast
+- [How to Preserve Yeast](en/stock_en.md)
 - References & Acknowledgments
 
 ##### 日本語版  
