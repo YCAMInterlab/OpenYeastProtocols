@@ -3,7 +3,7 @@ Open Yeast Protocols are experiment protocols for the basic procedures of collec
   
 オープン・イースト・プロトコルズは、自然界に存在している酵母の採取・培養・観察・保存といった基本操作に関して、多くの人々が取り組むことができるようにオープンに共有する実験プロトコルです。内容は主に「準備するもの」と「手順の例」で構成されています。  
 
-##### 英語版 
+##### 英語版 (English ver.) 
 - How to Make the Growth Medium: 
   - [Potato dextrose agar (kitchen utensil)](en/PDAmedium_kitchen_en.md)
   - [YPD growth medium](en/YPDmedium_en.md)
