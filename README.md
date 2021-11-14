@@ -2,7 +2,8 @@
   
 オープン・イースト・プロトコルズは、自然界に存在している酵母の採取・培養・観察・保存といった基本操作に関して、多くの人々が取り組むことができるようにオープンに共有する実験プロトコルです。内容は主に「準備するもの」と「手順の例」で構成されています。  
   
-Open Yeast Protocols are experiment protocols for the basic procedures of collecting, culturing, observing, and preserving yeast found in nature. They can be freely shared to enable more people to pursue these activities. These protocols mainly explain the required items and procedures.
+Open Yeast Protocols are experiment protocols for the basic procedures of collecting, culturing, observing, and preserving yeast found in nature. They can be freely shared to enable more people to pursue these activities. These protocols mainly explain the required items and procedures.  
+  
   
 #### 日本語版  
 - 培地のつくりかた 
@@ -45,6 +46,7 @@ Open Yeast Protocols are experiment protocols for the basic procedures of collec
 
 ## 開発・利用履歴
 - 2021.10-11　鹿児島・薩摩川内市にて、[薩摩フューチャーコモンズ](https://kigyo-satsumasendai.jp/sfc/)の一環で開催された[「食とバイオ」ワークショップ](http://www.city.satsumasendai.lg.jp/www/contents/1630476742913/index.html)で、野生酵母の採取・培養・観察を実施。
+- 2021.02　実験プロトコルの英語版を作成。
 - 2018.08　山口で開催された「日本生物教育会（JABE）第73回全国大会 山口大会」にて紹介。参加高校の先生方に協力いただき、野生酵母の採集・解析キット作成に向けた予備実験調査（[マップ](https://www.google.com/maps/d/u/1/edit?mid=1jAaTy_FYrJweN7rdK8IP0za3kzfQYVFp&usp=sharing)）を実施。
 - 2016.08　鹿児島・南九州市で開催された「[GOOD NEIGHBORS JAMBOREE 2016](http://goodneighborsjamboree.com/2016/)」のグッドネイバーズ・カレッジ特別授業#3にて、微生物ハンティングなどのワークショップを実施。
 - 2016.06　山口の山口情報芸術センター［YCAM］にて、[YCAMバイオ・リサーチ・オープンデイvol.1「パンと酵母」](https://www.ycam.jp/events/2016/ycam-bio-research-open-day-vol1/)を開催。
