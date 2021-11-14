@@ -1,5 +1,6 @@
 ## Open Yeast Protocols
-Open Yeast Protocols（オープン・イースト・プロトコルズ）は、自然界に存在している酵母の採取・培養・観察・保存といった基本操作に関して、多くの人々が取り組むことができるようにオープンに共有する実験プロトコルです。内容は主に「準備するもの」と「手順の例」で構成されています。  
+Open Yeast Protocols are experiment protocols for the basic procedures of collecting, culturing, observing, and preserving yeast found in nature. They can be freely shared to enable more people to pursue these activities. These protocols mainly explain the required items and procedures.
+オープン・イースト・プロトコルズは、自然界に存在している酵母の採取・培養・観察・保存といった基本操作に関して、多くの人々が取り組むことができるようにオープンに共有する実験プロトコルです。内容は主に「準備するもの」と「手順の例」で構成されています。  
 
 ##### 英語版 
 - 準備中
