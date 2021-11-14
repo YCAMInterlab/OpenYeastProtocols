@@ -1,25 +1,10 @@
 ## Open Yeast Protocols
-Open Yeast Protocols are experiment protocols for the basic procedures of collecting, culturing, observing, and preserving yeast found in nature. They can be freely shared to enable more people to pursue these activities. These protocols mainly explain the required items and procedures.
   
 オープン・イースト・プロトコルズは、自然界に存在している酵母の採取・培養・観察・保存といった基本操作に関して、多くの人々が取り組むことができるようにオープンに共有する実験プロトコルです。内容は主に「準備するもの」と「手順の例」で構成されています。  
-
-##### 英語版 (English ver.) 
-- How to Make the Growth Medium: 
-  - [Potato dextrose agar (kitchen utensil)](en/PDAmedium_kitchen_en.md)
-  - [YPD growth medium](en/YPDmedium_en.md)
-  - [YM growth medium](en/YMmedium_en.md)
-- [How to Collect Yeast](en/hunt_en.md)
-- How to Culture Yeast
-  - [Liquid Culture](en/liquidculture_en.md)
-  - [Agar Plate Culture](en/plateculture_en.md)
-  - [Liquid Culture from a Plate](en/plate2liquid_en.md)
-  - [Plate Culture from a Liquid](en/liquid2plate_en.md)
-  - [Plate Culture from a Diluted Solution](en/liquiddilution2plate_en.md)
-- [How to Observe Yeast](en/observe_en.md)
-- [How to Preserve Yeast](en/stock_en.md)
-- [References & Acknowledgments](en/references_en.md)
-
-##### 日本語版  
+  
+Open Yeast Protocols are experiment protocols for the basic procedures of collecting, culturing, observing, and preserving yeast found in nature. They can be freely shared to enable more people to pursue these activities. These protocols mainly explain the required items and procedures.
+  
+#### 日本語版  
 - 培地のつくりかた 
   - [バレイショ-ブドウ糖寒天培地（キッチン道具）](jp/PDAmedium_kitchen.md)
   - [YPD培地](jp/YPDmedium.md) 
@@ -34,8 +19,24 @@ Open Yeast Protocols are experiment protocols for the basic procedures of collec
 - [酵母の観察方法](jp/observe.md)
 - [酵母の保存方法](jp/stock.md)
 - [参考文献・謝辞](jp/references.md)
-
-##### 韓国語版（一部抜粋）
+  
+#### 英語版 (English ver.) 
+- How to Make the Growth Medium: 
+  - [Potato dextrose agar (kitchen utensil)](en/PDAmedium_kitchen_en.md)
+  - [YPD growth medium](en/YPDmedium_en.md)
+  - [YM growth medium](en/YMmedium_en.md)
+- [How to Collect Yeast](en/hunt_en.md)
+- How to Culture Yeast
+  - [Liquid Culture](en/liquidculture_en.md)
+  - [Agar Plate Culture](en/plateculture_en.md)
+  - [Liquid Culture from a Plate](en/plate2liquid_en.md)
+  - [Plate Culture from a Liquid](en/liquid2plate_en.md)
+  - [Plate Culture from a Diluted Solution](en/liquiddilution2plate_en.md)
+- [How to Observe Yeast](en/observe_en.md)
+- [How to Preserve Yeast](en/stock_en.md)
+- [References & Acknowledgments](en/references_en.md)
+  
+#### 韓国語版（一部抜粋）
 - [酵母の採取方法](kr/hunt_kr.md)（채집）  
 - 酵母の培養方法 
   - [液体培養](kr/liquidculture_kr.md)（액체배양）
