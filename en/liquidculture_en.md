@@ -1,6 +1,6 @@
 ## How to Culture on Liquid Growth Media
 
-### Items Requiredl
+### Items Required
 - Sample (collected)
 - Conical tube containing liquid medium
 - Tube stand
